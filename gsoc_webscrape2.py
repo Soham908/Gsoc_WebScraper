@@ -15,7 +15,7 @@ url = "https://summerofcode.withgoogle.com/programs/2022/organizations"
 url = "https://summerofcode.withgoogle.com/archive/2018/organizations"
 driver.get(url)
 
-
+elem3 = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CLASS_NAME, "name")))
 # url = "http://localhost/img"
 soup = BeautifulSoup(driver.page_source, 'html.parser')
 tags1 = soup.find_all("div", class_="name")
@@ -29,7 +29,8 @@ elem3 = WebDriverWait(driver, 20).until(EC.presence_of_element_located((By.CLASS
 soup2 = BeautifulSoup(driver.page_source, "html.parser")
 tags3 = soup2.find_all("div", class_="name")
 
-print(tags1)
-print(tags3)
-
+for tag in tags1:
+    print(tag.text)
+for tag in tags3:
+    print(tag.text)
 
