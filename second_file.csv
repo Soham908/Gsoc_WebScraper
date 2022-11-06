@@ -1,0 +1,1198 @@
+Number,Company
+0, Micro Electronics Research Lab - UITU 
+1, rocket.chat 
+2, Monado 
+3, R project for statistical computing 
+4, GeomScale 
+5, CHIPS Alliance 
+6, libcamera 
+7, CNCF 
+8, Metasploit 
+9, Eclipse Foundation 
+10, OpenWISP 
+11, Casbin 
+12, Learning Equality 
+13, International Catrobat Association 
+14, Jenkins X 
+15, DBpedia 
+16, Sugar Labs 
+17, GNU Radio 
+18, Mathesar 
+19, Matrix.org 
+20, SymPy 
+21, MariaDB 
+22," Department of Biomedical Informatics, Emory University "
+23, omegaUp 
+24, Gentoo Foundation 
+25, Haskell.org 
+26, Intel Video and Audio for Linux 
+27, Red Hen Lab 
+28, Blender Foundation 
+29, Open Technologies Alliance - GFOSS 
+30, cBioPortal for Cancer Genomics 
+31, INCF 
+32, SPDX 
+33, Responsible AI and Human Centred Technology 
+34, CERN-HSF 
+35, Drupal Association 
+36, Electron 
+37, OpenAstronomy 
+38, openSUSE Project 
+39, GNSS-SDR 
+40, The Linux Foundation 
+41, Haiku 
+42, Zulip 
+43, LibreOffice 
+44, The JPF team 
+45, The ns-3 Network Simulator Project 
+46, OpenStreetMap 
+47, MZmine 
+48, GNU Compiler Collection (GCC) 
+49, QEMU 
+50, NumFOCUS 
+51, MoveIt 
+52, XWiki 
+53, Free and Open Source Silicon Foundation 
+54, JabRef e.V. 
+55, SeaQL 
+56, Open3D team 
+57, Cuneiform Digital Library Initiative (CDLI) 
+58, Neutralinojs 
+59, Kodi 
+60, Center for Translational Data Science 
+61, syslog-ng 
+62, OpenVINO Toolkit 
+63, The Palisadoes Foundation 
+64, CircuitVerse.org 
+65, Ruby 
+66, BeagleBoard.org 
+67, Open Chemistry 
+68, LibreHealth 
+69, GNU Image Manipulation Program 
+70, Internet Health Report 
+71, RoboComp 
+72, Open Bioinformatics Foundation (OBF) 
+73, Performance Co-Pilot 
+74, IOOS 
+75, OWASP Foundation 
+76, BRL-CAD 
+77, mlpack 
+78, Wagtail 
+79, libvirt 
+80, coreboot 
+81, Oppia Foundation 
+82, Inkscape 
+83, Mayor's Office of New Urban Mechanics 
+84, Python Software Foundation 
+85, OpenAFS 
+86, moja global 
+87, Open Genome Informatics 
+88, The NetBSD Foundation 
+89, Ceph 
+90, Plone Foundation 
+91, AboutCode 
+92, Kart Project 
+93, Dart 
+94, PEcAn Project 
+95, Swift 
+96, checkstyle 
+97, Submitty 
+98, FreeType 
+99, MetaCall 
+100, GNU Octave 
+101, ArduPilot 
+102, GitLab 
+103, MuseScore 
+104, Forschungszentrum Jülich 
+105, MBDyn 
+106, PowerDNS 
+107, Git 
+108, The Mifos Initiative 
+109, Django Software Foundation 
+110, Chromium 
+111, CCExtractor Development 
+112, Debian 
+113, Keptn 
+114, XMPP Standards Foundation 
+115, The ENIGMA Team 
+116, Society for Arts and Technology (SAT) 
+117, sktime 
+118, MIT App Inventor 
+119, LLVM Compiler Infrastructure 
+120, MDAnalysis 
+121, FFmpeg 
+122, TensorFlow 
+123, The Tor Project 
+124, Joomla! 
+125, OSGeo (Open Source Geospatial Foundation) 
+126, freifunk 
+127, Ste||ar group 
+128, Homebrew 
+129, Processing Foundation 
+130, GRAME 
+131, JBoss Community 
+132, libssh 
+133, Apache Software Foundation 
+134, OpenCV 
+135, Jenkins 
+136, Flashrom 
+137, 52°North Spatial Information Research GmbH 
+138, TARDIS RT Collaboration 
+139, RTEMS Project 
+140, FOSSology 
+141, Scala Center 
+142, Joplin 
+143, Jitsi 
+144, Liquid Galaxy project 
+145, Xfce 
+146, CGAL Project 
+147, Godot Engine 
+148, RADAR-base 
+149, Robolectric 
+150, Synfig 
+151, PostgreSQL 
+152, The Julia Language 
+153, SageMath 
+154, Global Alliance for Genomics and Health 
+155, X.Org Foundation 
+156, Software Heritage 
+157, Machine Learning for Science (ML4SCI) 
+158, Fortran-lang 
+159, Public Lab 
+160, LibreCube Initiative 
+161, SCoRe Lab 
+162, MetaBrainz Foundation Inc 
+163, Orcasound 
+164, Our World In Data 
+165, Audacity 
+166, Center for Research in Open Source Software (CROSS) 
+167, CRIU 
+168, KDE Community 
+169, National Resource for Network Biology (NRNB) 
+170, ReactOS Foundation 
+171, Wikimedia Foundation 
+172, Mixxx 
+173, AnkiDroid 
+174, GNOME Foundation 
+175, Semi Technologies 
+176, CHAOSS 
+177, Wellcome Sanger Tree of Life 
+178, The Honeynet Project 
+179, strace 
+180, The FreeBSD Project 
+181, Organic Maps 
+182, LEAP Encryption Access Project 
+183, AOSSIE 
+184, Purr Data 
+185, VideoLAN 
+186, Rizin 
+187, Unikraft 
+188, Open Food Facts 
+189, Polypheny 
+190, JdeRobot 
+191, TianoCore 
+192, FRRouting 
+193, Genome Assembly and Annotation 
+194, Open Robotics 
+195, AFLplusplus 
+196, OpenMRS 
+197, ScummVM 
+0, 52°North GmbH 
+1, AboutCode 
+2, Accord Project 
+3, AerospaceResearch.net 
+4, AFLplusplus 
+5, Android Graphics Tools Team 
+6, AnkiDroid 
+7, AOSSIE 
+8, Apertium 
+9, apertus° Association 
+10, ArduPilot 
+11, Audacity 
+12, BeagleBoard.org Foundation 
+13, Bench-Routes 
+14, Blender Foundation 
+15, Boost C++ Libraries 
+16, BRL-CAD 
+17, caMicroscope 
+18, Casbin 
+19, CASTOR 
+20, CCExtractor Development 
+21," Center for Research in Open Source Software, UC Santa Cruz "
+22, Ceph 
+23, CERN-HSF 
+24, CGAL Project 
+25, CHAOSS Project 
+26, Chapel 
+27, Checkstyle 
+28, Chromium 
+29, Cilium 
+30, CircuitVerse.org 
+31, CiviCRM LLC 
+32, CloudCV 
+33, CNCF 
+34, coala 
+35, Continuous Delivery Foundation 
+36, CRIU 
+37, Cuneiform Digital Library Initiative (CDLI) 
+38, Dart 
+39, DBpedia 
+40, Debian 
+41, DeepPavlov 
+42," Department of Biomedical Informatics (BMI), Emory University School of Medicine "
+43, Digital Impact Alliance (DIAL) at UN Foundation 
+44, Django Software Foundation 
+45, Elm Tooling 
+46, FFmpeg 
+47, Fortran-lang 
+48, FOSSology 
+49, FrameNet Brasil (UFJF) 
+50, Free and Open Source Silicon Foundation 
+51, FreeBSD Project 
+52, FreeType 
+53, freifunk 
+54, FRRouting 
+55, Genome Assembly and Annotation 
+56, Gentoo Foundation 
+57, GeomScale 
+58, GFOSS - Open Technology Alliance 
+59, Git 
+60, GitLab 
+61, Global Alliance for Genomics and Health 
+62, GNOME Foundation 
+63, GNSS-SDR 
+64, GNU Compiler Collection (GCC) 
+65, GNU Mailman Project 
+66, GNU Octave 
+67, GNU Radio 
+68, Godot Engine 
+69, Google FHIR SDK 
+70, gprMax 
+71, GRR Rapid Response 
+72, gVisor 
+73, Haiku 
+74, Halide 
+75, Haskell.org 
+76, Hydra Ecosystem 
+77, INCF 
+78, Inkscape 
+79, Integrated Ocean Observing System (IOOS) 
+80, Intel Video and Audio for Linux 
+81, International Catrobat Association 
+82, Internet Archive 
+83, JabRef e.V. 
+84, Java PathFinder 
+85, JBoss Community 
+86, JdeRobot - Universidad Rey Juan Carlos 
+87, Joomla! 
+88, Joplin 
+89, KDE Community 
+90, Kiwix 
+91, Kodi 
+92, LabLua 
+93, Learning Equality 
+94, libcamera 
+95, Libre Space Foundation 
+96, LibreCube Initiative 
+97, LibreHealth 
+98, LibreOffice 
+99, libvirt 
+100, Liquid Galaxy project 
+101, Machine Learning for Science (ML4SCI) Umbrella Organization 
+102, MapAction 
+103, MariaDB Foundation 
+104, Matrix.org 
+105, Mayor's Office of New Urban Mechanics (City of Boston) 
+106, MBDyn 
+107, MDAnalysis 
+108, Media Cloud 
+109, MediaPipe 
+110, MetaBrainz Foundation Inc 
+111, MetaCall 
+112, Metasploit 
+113, MGGG Redistricting Lab 
+114, MIT App Inventor 
+115, mlpack 
+116, MoveIt 
+117, MuseScore 
+118, mypy 
+119, National Resource for Network Biology (NRNB) 
+120, Navidrome 
+121, NumFOCUS 
+122, Open Bioinformatics Foundation 
+123, Open Chemistry 
+124, Open Genome Informatics 
+125, Open Roberta 
+126, Open Robotics 
+127, openastronomy 
+128, OpenCV 
+129, OpenMined 
+130, OpenMRS 
+131, OpenStreetMap 
+132, openSUSE Project 
+133, OpenWISP 
+134, Oppia Foundation 
+135, Orcasound 
+136, OSGeo - Open Source Geospatial Foundation 
+137, OWASP Foundation 
+138, PEcAn Project 
+139, Pharo Consortium 
+140, Pidgin Instant Messenger 
+141, Pitivi 
+142, Plan 9 Foundation 
+143, Point Cloud Library 
+144, Polypheny 
+145, PostgreSQL 
+146, Postman 
+147, Processing Foundation 
+148, Project WikiLoop 
+149, Public Lab 
+150, Purr Data 
+151, Python Software Foundation 
+152, QEMU 
+153, Qubes OS 
+154, React Native Elements 
+155, ReactOS 
+156, Red Hen Lab 
+157, Rizin 
+158, RoboComp 
+159, Rocket.Chat 
+160, RTEMS Project 
+161, Ruby 
+162, SageMath 
+163, Samba 
+164, Scala Center 
+165, SCoRe Lab 
+166, ScummVM 
+167, Shaka Player 
+168, Software Heritage 
+169, SPDX 
+170, STE||AR Group 
+171, strace 
+172, Sugar Labs 
+173, Swift 
+174, SymbiFlow 
+175, SymPy 
+176, Synfig 
+177, syslog-ng 
+178, Tarantool 
+179, TARDIS SN 
+180, TensorFlow 
+181, The Apache Software Foundation 
+182, The ENIGMA Team 
+183, The Honeynet Project 
+184, The Julia Language 
+185, The Libreswan Project 
+186, The Linux Foundation 
+187, The LLVM Compiler Infrastructure 
+188, The NetBSD Foundation 
+189, The ns-3 Network Simulator Project 
+190, The Palisadoes Foundation 
+191, The R Project for Statistical Computing 
+192, The Terasology Foundation 
+193, TianoCore 
+194, VideoLAN 
+195, vitrivr 
+196, Wikimedia Foundation 
+197, Xfce 
+198, Xiph.Org Foundation 
+199, xrdesktop 
+0, 52° North GmbH 
+1, AboutCode.org 
+2, Academy Software Foundation (ASWF) 
+3, Accord Project 
+4, AerospaceResearch.net 
+5, afl++ 
+6, Amahi 
+7, Android Graphics Tools Team 
+8, AnitaB.org Open Source 
+9, AOSSIE 
+10, Apertium 
+11, apertus° Association 
+12, appleseed 
+13, Arduino 
+14, ArduPilot 
+15, BeagleBoard.org 
+16, BioGears 
+17, Blender Foundation 
+18, Boost C++ 
+19, BRL-CAD 
+20, caMicroscope 
+21, Canadian Centre for Computational Genomics 
+22, Casbin 
+23, Catrobat 
+24, CCExtractor Development 
+25, Ceph Foundation 
+26, CERN-HSF 
+27, CGAL Project 
+28, CHAOSS 
+29, Chapel 
+30, Checker Framework 
+31, Checkstyle 
+32, CircuitVerse.org 
+33, CiviCRM 
+34, Cloud Native Computing Foundation (CNCF) 
+35, CloudCV 
+36, Continuous Delivery Foundation 
+37, coreboot 
+38, Creative Commons 
+39, CRIU 
+40, Cuneiform Digital Library Initiative (CDLI) 
+41, Dart 
+42, DBpedia 
+43, Debian 
+44, Digital Impact Alliance (DIAL) at UN Foundation 
+45, Django Software Foundation 
+46, Drupal 
+47, Eclipse Foundation 
+48, Elastic 
+49, Embox 
+50, Erlang Ecosystem Foundation 
+51, Fedora Project 
+52, FFmpeg 
+53, FOSSology 
+54, FrameNet Brasil (UFJF) 
+55, Free and Open Source Silicon Foundation 
+56, FreeBSD Project 
+57, FreeType 
+58, FRRouting 
+59, GDevelop 
+60, Gentoo Foundation 
+61, GeomScale 
+62, Git 
+63, Global Alliance for Genomics and Health 
+64, GNOME 
+65, GNSS-SDR 
+66, GNU Compiler Collection (GCC) 
+67, GNU Octave 
+68, GNU Radio 
+69, Godot Engine 
+70, GPAC 
+71, GraphQL Foundation 
+72, Haiku 
+73, Haskell.org 
+74, Hazelcast 
+75, Homebrew 
+76, Hydra Ecosystem 
+77, INCF 
+78, Inclusive Design Institute 
+79, Inkscape 
+80, Intel Media And Audio For Linux 
+81, Internet Archive 
+82, JBoss Community 
+83, JdeRobot - Universidad Rey Juan Carlos 
+84, Jenkins project 
+85, Joplin 
+86, Kapitan 
+87, KDE Community 
+88, Kiwix 
+89, Kodi Foundation 
+90, Kubeflow 
+91, LabLua 
+92, Libre Space Foundation 
+93, LibreHealth 
+94, LibreOffice 
+95, libvirt 
+96, Linkerd 
+97, Liquid Galaxy project 
+98, lowRISC 
+99, MacPorts 
+100, MariaDB Foundation 
+101, Matrix 
+102, MBDyn 
+103, MDAnalysis 
+104, MetaBrainz Foundation Inc. 
+105, Metasploit 
+106, MGGG Redistricting Lab 
+107, MIT App Inventor 
+108, Mixxx 
+109, mlpack 
+110, Moira 
+111, MoveIt 
+112, Mozilla 
+113, MuseScore 
+114, mypy 
+115, MZmine 
+116, National Resource for Network Biology (NRNB) 
+117, Neovim 
+118, Netty 
+119, NumFOCUS 
+120, NV Access 
+121, Open Bioinformatics Foundation (OBF) 
+122, Open Chemistry 
+123, Open Genome Informatics 
+124, Open Roberta 
+125, Open Source Robotics Foundation 
+126, OpenAstronomy 
+127, OpenCV 
+128, OpenEMR 
+129, OpenHMD 
+130, OpenMined 
+131, OpenMRS 
+132, OpenRefine 
+133, OpenStreetMap 
+134, openSUSE Project 
+135, OpenWISP 
+136, Oppia Foundation 
+137, Orcasound 
+138, OSGeo 
+139, OWASP Foundation 
+140, PEcAn Project 
+141, Percona 
+142, Performance Co-Pilot 
+143, Pitivi 
+144, Point Cloud Library 
+145, PostgreSQL 
+146, Postman 
+147, Processing Foundation 
+148, Purr Data 
+149, Python Software Foundation 
+150, QEMU 
+151, Qubes OS 
+152, R Project for Statistical Computing 
+153, Radare 
+154, ReactOS 
+155, Red Hen Lab 
+156, RoboComp 
+157, Rocket.Chat 
+158, RTEMS Project 
+159, Ruby 
+160, SageMath 
+161, Samba 
+162, SCoRe Lab 
+163, ScummVM 
+164, Shogun 
+165, SPDX 
+166, Ste||ar group 
+167, strace 
+168, Submitty 
+169, Sugar Labs 
+170, Swift 
+171, SymbiFlow 
+172, SymPy 
+173, Synfig 
+174, syslog-ng 
+175, TARDIS-SN 
+176, TensorFlow 
+177, The Apache Software Foundation 
+178, The GNU Project 
+179, The Honeynet Project 
+180, The Java Pathfinder Team 
+181, The Julia Language 
+182, The Libreswan Project 
+183, The Linux Foundation 
+184, The LLVM Compiler Infrastructure 
+185, The Mifos Initiative 
+186, The NetBSD Foundation 
+187, The ns-3 Network Simulator Project 
+188, The Terasology Foundation 
+189, The Wine Project 
+190, VideoLAN 
+191, webpack 
+192, Wikimedia Foundation 
+193, Wireshark 
+194, X.Org Foundation 
+195, Xapian Search Engine Library 
+196, XMPP Standards Foundation 
+197, XWiki 
+198, Zulip 
+0, 52°North Initiative for Geospatial Open Source Software GmbH 
+1, AboutCode.org 
+2, AerospaceResearch.net 
+3, aimacode 
+4, Amahi 
+5, Android Graphics Tools Team 
+6, AOSSIE - Australian Open Source Software Innovation and Education 
+7, Apertium 
+8, apertus° Association 
+9, API Client Tools at Google 
+10, appleseedhq 
+11, Ardupilot.org 
+12, Bazel 
+13, BeagleBoard.org 
+14, Berkman Klein Center for Internet and Society 
+15," Biomedical Informatics, Emory University "
+16, Blender Foundation 
+17, Boost C++ 
+18, BRL-CAD 
+19, Buildroot 
+20, Canadian Center for Computational Genomics 
+21, Catrobat 
+22, cBioPortal for Cancer Genomics 
+23, CBMI@UTHSC 
+24, CCExtractor Development 
+25, Center for Research in Open Source Software at UC Santa Cruz 
+26, CERN-HSF 
+27, CGAL project 
+28, CHAOSS 
+29, Chapel 
+30, Checker Framework 
+31, CircuitVerse.org 
+32, CiviCRM 
+33," CLiPS, University of Antwerp "
+34, Cloud Native Computing Foundation (CNCF) 
+35, CloudCV 
+36, coala 
+37, Computational Biology @ University of Nebraska-Lincoln 
+38, coreboot 
+39, Creative Commons 
+40, CRIU (Checkpoint/Restore in User-space) 
+41, Cuneiform Digital Library Initiative (CDLI) 
+42, D Programming Language 
+43, DBpedia 
+44, Debian 
+45, Developers Italia 
+46, Digital Impact Alliance 
+47, Django Software Foundation 
+48, Drupal 
+49, Earth Science Information Partners 
+50, Fedora Project 
+51, FFmpeg 
+52, FOSDEM 
+53, FOSSASIA 
+54, FOSSology Project 
+55, FrameNet Brasil at the Federal University of Juiz de Fora 
+56, Free and Open Source Silicon Foundation 
+57, FreeBSD 
+58, FreeType 
+59, freifunk 
+60," Genes, Genomes and Variation "
+61, GENIVI Alliance 
+62, Gentoo Foundation 
+63, Git 
+64, Global Alliance for Genomics and Health 
+65, GNOME 
+66, GNSS-SDR 
+67, GNU Compiler Collection 
+68, GNU Mailman 
+69, GNU Octave 
+70, GNU Radio 
+71, Godot Engine 
+72, gprMax 
+73, Haiku 
+74, Haskell.Org 
+75, Hydra Ecosystem 
+76, INCF 
+77, Inkscape 
+78, Institut für Angewandte Informatik (InfAI) e.V. 
+79, Intel Media And Audio For Linux 
+80, InterMine 
+81, Internet Archive 
+82, Internet Systems Consortium 
+83, JabRef 
+84, JBoss Community 
+85, JdeRobot - Universidad Rey Juan Carlos 
+86, Jenkins project 
+87, Joomla 
+88, JSK Robotics Laboratory / The University of Tokyo 
+89, Kapitan 
+90, KDE Community 
+91, Kiwix 
+92, KNIME 
+93, Kodi Foundation 
+94, LabLua 
+95, Libre Space Foundation 
+96, LibreHealth 
+97, LibreOffice 
+98, Libvirt 
+99, Linkerd 
+100, Liquid Galaxy project 
+101, LLVM Compiler Infrastructure 
+102, LuaRocks 
+103, MacPorts 
+104, MariaDB Foundation 
+105, Matrix.org 
+106, MBDyn - Multibody Dynamics 
+107, MetaBrainz Foundation Inc 
+108, MIT App Inventor 
+109, mlpack 
+110, Moira 
+111, Moodle 
+112, Mozilla 
+113, MuseScore 
+114, Named Data Networking Project 
+115, National Resource for Network Biology (NRNB) 
+116, Neovim 
+117, Netfilter project 
+118, NumFOCUS 
+119, NV Access 
+120, Open Astronomy 
+121, Open Bioinformatics Foundation 
+122, Open Chemistry 
+123, Open Data Kit 
+124, Open Roberta 
+125, Open Source Robotics Foundation 
+126, Open Technologies Aliance - GFOSS 
+127, OpenCV 
+128, OpenMRS 
+129, OpenStreetMap 
+130, OpenWISP 
+131, Oppia Foundation 
+132, OSGeo 
+133, OWASP Foundation 
+134, PEcAn Project 
+135, Percona 
+136, Performance Co-Pilot 
+137, Pharo Consortium 
+138, phpMyAdmin 
+139, Pitivi 
+140, PostgreSQL 
+141, Project PANOPTES 
+142, Public Lab 
+143, Purr Data 
+144, Python Software Foundation 
+145, QEMU 
+146, R project for statistical computing 
+147, ReactOS 
+148, Read the Docs 
+149, Red Hen Lab 
+150, RoboComp 
+151, Rocket.Chat 
+152, RTEMS Project 
+153, Ruby 
+154, Ruby Science Foundation 
+155, SageMath 
+156, Salesforce 
+157, Samba 
+158, SCoRe Lab (Sustainable Computing Research Lab) 
+159, ScummVM 
+160, shogun.ml 
+161, Software and Computational Systems Lab at LMU Munich 
+162, Software Heritage 
+163, SPDX (Software Product Data Exchange) 
+164, strace 
+165, Submitty 
+166, Sugar Labs 
+167, Swift 
+168, SymbiFlow 
+169, SymPy 
+170, Synfig 
+171, syslog-ng 
+172, TensorFlow 
+173, The Apache Software Foundation 
+174, The Center for Connected Learning and Computer-Based Modeling 
+175, The Eclipse Foundation 
+176, The GNU Project 
+177, The Honeynet Project 
+178, The Java Pathfinder Team 
+179, The Julia Language 
+180, The Libreswan Project 
+181, The Linux Foundation 
+182, The Mifos Initiative 
+183, The NetBSD Foundation 
+184, The ns-3 Network Simulator Project 
+185, The Perl Foundation 
+186, The Postgres Operator 
+187, The Processing Foundation 
+188, The Terasology Foundation 
+189, The Vega Project at the University of Washington 
+190, The Wine Project 
+191, TimVideos.us 
+192, Tokio 
+193, Tungsten Fabric 
+194, UCSC Xena 
+195, VideoLAN 
+196, webpack 
+197, Wikimedia Foundation 
+198, X.Org Foundation 
+199, Xapian Search Engine Library 
+0, 3DTK 
+1, 52° North Initiative for Geospatial Open Source Software GmbH 
+2, AerospaceResearch.net 
+3, aimacode 
+4, Amahi 
+5, AOSSIE - Australian Open Source Software Innovation and Education 
+6, Apache Software Foundation 
+7, Apertium 
+8, Apertus Association 
+9, appleseedhq 
+10, ArduPilot 
+11, BeagleBoard.org Foundation 
+12, Beam Community 
+13, BeeWare Project 
+14, Berkman Klein Center for Internet & Society at Harvard University 
+15, Blender Foundation 
+16, Boost C++ Libraries 
+17, Boston University / XIA 
+18, BRL-CAD 
+19, Canadian Centre for Computational Genomics 
+20, Catrobat 
+21, CCExtractor Development 
+22, Center for Research In Open Source Software (CROSS) at UC Santa Cruz 
+23, CERN-HSF 
+24, CGAL Project 
+25, CHAOSS: Community Health Analytics Open Source Software 
+26, Checker Framework 
+27, CiviCRM LLC 
+28, Classical Language Toolkit 
+29," CLiPS, University of Antwerp "
+30, Cloud Native Computing Foundation (CNCF) 
+31, CloudCV 
+32, coala 
+33, Computational Biology @ University of Nebraska-Lincoln 
+34, Conversations.im 
+35, Cuneiform Digital Library Initiative 
+36, DBpedia 
+37, Debian Project 
+38, Developers Italia 
+39, Digital Impact Alliance 
+40, Django Software Foundation 
+41, Drupal 
+42, Earth Science Information Partners (ESIP) 
+43, Elastic 
+44, Eta 
+45, Fedora Project 
+46, FFmpeg 
+47, FOSSASIA 
+48, FOSSology 
+49, Free and Open Source Silicon Foundation 
+50, Free UK Genealogy 
+51, FreeBSD 
+52, FreeType 
+53, freifunk 
+54," Genes, Genomes and Variation "
+55, GENIVI Alliance 
+56, Gentoo Foundation 
+57, GFOSS - Open Technologies Alliance 
+58, Git 
+59, Global Alliance for Genomics and Health 
+60, GNOME 
+61, GNSS-SDR 
+62, GNU Compiler Collection (GCC) 
+63, GNU Octave 
+64, GNU Project 
+65, GNU Radio 
+66, Godot Engine 
+67, gRPC 
+68, Haiku 
+69, Haskell.org 
+70, Homebrew 
+71, INCF 
+72, Inclusive Design Institute 
+73, Inkscape 
+74, Inria Foundation 
+75, Institute for Artificial Intelligence 
+76, Intel Media And Audio For Linux 
+77, InterMine 
+78, Internet Archive 
+79, Internet Systems Consortium 
+80, JBoss Community 
+81, JdeRobot - Universidad Rey Juan Carlos 
+82, Jenkins project 
+83, JGraphT 
+84, Jitsi 
+85, Joomla! 
+86, JSK Robotics Laboratory / The University of Tokyo 
+87, KDE Community 
+88, Kiwix 
+89, LabLua 
+90, languagetool.org 
+91, LEAP Encryption Access Project 
+92, LibreHealth 
+93, LibreOffice 
+94, libvirt 
+95, LLVM Compiler Infrastructure 
+96, LuaRocks 
+97, MariaDB Foundation 
+98, Matrix.org 
+99, MetaBrainz Foundation Inc. 
+100, Metasploit 
+101, Mixxx DJ Software 
+102, mlpack 
+103, Mobile Robot Programming Toolkit (MRPT) 
+104, Moodle 
+105, MovingBlocks 
+106, Mozilla 
+107, MuseScore 
+108, National Resource for Network Biology (NRNB) 
+109, Neovim 
+110, Netfilter project 
+111, NumFOCUS 
+112, omegaUp.com 
+113, Open Bioinformatics Foundation 
+114, Open Chemistry 
+115, Open Data Kit 
+116, Open Food Facts 
+117, Open Roberta Lab 
+118, Open Source Robotics Foundation 
+119, Open States 
+120, OpenAstronomy 
+121, OpenCensus 
+122, OpenMRS 
+123, OpenSIPS 
+124, OpenStreetMap 
+125, openSUSE 
+126, OpenWISP 
+127, OpnTec 
+128, Oppia Foundation 
+129, OSGeo 
+130, OW2 
+131, OWASP Foundation 
+132, P2PSP.org 
+133, PEcAn Project 
+134, Performance Co-Pilot 
+135, phpBB Forum Software 
+136, phpMyAdmin 
+137, Plone 
+138, PMD 
+139, Pocket Science Lab 
+140, Polly Labs 
+141, PostgreSQL 
+142, Probot 
+143, Public Lab 
+144, Purr Data 
+145, Python HYDRA 
+146, Python Software Foundation 
+147, QEMU 
+148, Quill.org 
+149, R project for statistical computing 
+150, radare 
+151, ReactOS 
+152, Read the Docs 
+153, Red Hen Lab 
+154, RoboComp 
+155, Rocket.Chat 
+156, Rspamd 
+157, RTEMS Project 
+158, Ruby 
+159, Ruby on Rails 
+160, Ruby Science Foundation 
+161, Sage Mathematical Software System 
+162, Scala 
+163, Scilab 
+164, ScummVM 
+165, Seastar 
+166, Software and Computational Systems Lab at LMU Munich 
+167, Space @ Virginia Tech 
+168, SPDX 
+169, STE||AR Group 
+170, Stemformatics 
+171, Stony Brook University Biomedical Informatics 
+172, strace 
+173, Streetmix 
+174, Submitty 
+175, Sugar Labs 
+176, Sustainable Computing Research Group (SCoRe) 
+177, Swift 
+178, SymPy 
+179, Systers Community 
+180, TEAMMATES @ National University of Singapore 
+181, The Center for Connected Learning and Computer-Based Modeling 
+182, The Eclipse Foundation 
+183, The Honeynet Project 
+184, The Java Pathfinder Team 
+185, The Libreswan Project 
+186, The Linux Foundation 
+187, The MacPorts Project 
+188, The Mifos Initiative 
+189, The NetBSD Foundation 
+190, The ns-3 Network Simulator Project 
+191, The Processing Foundation 
+192, The Qt Project 
+193, The syslog-ng project. 
+194, The Vega Visualization Tools by the UW Interactive Data Lab 
+195, The Wine Project 
+196, TimVideos.us 
+197, TLA+ 
+198, UCSC Xena 
+199, VideoLAN 
+0, 52°North Initiative for Geospatial Open Source Software GmbH 
+1, AboutCode 
+2, AerospaceResearch.net 
+3, aimacode 
+4, Amahi 
+5, AOSSIE - Australian Open Source Software Innovation and Education 
+6, Apache Software Foundation 
+7, Apertium 
+8, Apertus Association 
+9, appleseedhq 
+10, ArduPilot 
+11, Babel 
+12, Bazel 
+13, BeagleBoard.org Foundation 
+14, Beam Community 
+15, BeeWare Project 
+16, Berkman Klein Center for Internet and Society at Harvard University 
+17, Blender Foundation 
+18, Boost C++ Libraries 
+19, Boston University / XIA 
+20, BRL-CAD 
+21, Cadasta 
+22, Catrobat 
+23, cBioPortal for Cancer Genomics 
+24, CCExtractor Development 
+25, Ceph 
+26, CERN-HSF 
+27, Chapel 
+28, Checker Framework 
+29, Checkstyle 
+30, Classical Language Toolkit 
+31," CLiPS, University of Antwerp "
+32, Clojure 
+33, Cloud Native Computing Foundation (CNCF) 
+34, CloudCV 
+35, CMU Sphinx 
+36, coala 
+37, Computational Biology @ University of Nebraska-Lincoln 
+38, Conversations.im 
+39, Copyleft Games 
+40, DBpedia 
+41, Discourse 
+42, Django Software Foundation 
+43, Drupal 
+44, Eclipse Vert.x 
+45, Elm Software Foundation 
+46, Environmental Data And Governance Initiative 
+47, Fedora Project 
+48, FFmpeg 
+49, FOSDEM 
+50, FOSSASIA 
+51, Free and Open Source Silicon Foundation 
+52, FreeBSD 
+53, Freifunk 
+54, Frescobaldi 
+55," Genes, Genomes and Variation "
+56, GENIVI Development Platform 
+57, Gentoo Foundation 
+58, Git 
+59, Global Alliance for Genomics and Health 
+60, GNOME 
+61, GNSS-SDR 
+62, GNU Octave 
+63, GNU Radio 
+64, Green Navigation 
+65, Haiku 
+66, Homebrew 
+67, illumos.org 
+68, INCF 
+69, Inkscape 
+70, Institute for Artificial Intelligence 
+71, Intel Media and Audio for Linux 
+72, Internet Archive 
+73, JBoss Community 
+74, JdeRobot - Universidad Rey Juan Carlos 
+75, Jitsi 
+76, Joomla 
+77, JSK Robotics Laboratory 
+78, K-9 Mail 
+79, KDE 
+80, LabLua 
+81, LibreHealth 
+82, LibreOffice 
+83, libvirt 
+84, Liquid Galaxy Project 
+85, LLVM Compiler Infrastructure 
+86, lowRISC 
+87, LuaRocks 
+88, MariaDB 
+89, Matrix.org 
+90, MBDyn 
+91, MetaBrainz Foundation Inc. 
+92, Metasploit 
+93, Microkernel devroom 
+94, Mifos Initiative 
+95, MIT App Inventor 
+96, Mixxx DJ Software 
+97, mlpack 
+98, Mobile Robot Programming Toolkit (MRPT) 
+99, Mono Project 
+100, Moodle 
+101, MovingBlocks 
+102, Mozilla 
+103, MuseScore 
+104, National Resource for Network Biology (NRNB) 
+105, Netfilter project 
+106, Nmap Security Scanner 
+107, NumFOCUS 
+108, Open Bioinformatics Foundation 
+109, Open Chemistry 
+110, Open Data Kit 
+111, Open Detection 
+112, Open Genome Informatics 
+113, Open States 
+114, Open Technologies Alliance - GFOSS 
+115, OpenAstronomy 
+116, OpenCV 
+117, OpenMRS 
+118, OpenStreetMap 
+119, openSUSE 
+120, OpenWISP 
+121, Oppia Foundation 
+122, OSGeo 
+123, oVirt 
+124, ownCloud 
+125, P2PSP.org 
+126, PEcAn Project 
+127, Performance Co-Pilot 
+128, Pharo Consortium 
+129, phpBB Forum Software 
+130, phpMyAdmin 
+131, Physical Web Project 
+132, Plone Foundation 
+133, PMD 
+134, Polly Labs 
+135, Portland State University 
+136, PostgreSQL 
+137, Public Lab 
+138, Python Software Foundation 
+139, QEMU 
+140, Qubes OS 
+141, R project for statistical computing 
+142, radare2 
+143, ReactOS 
+144, Red Hen Lab 
+145, RoboComp 
+146, Rocket.Chat 
+147, Rspamd 
+148, RTEMS Project 
+149, Ruby on Rails 
+150, Ruby Science Foundation 
+151, Sage Mathematical Software System 
+152, Samba 
+153, Scala 
+154, Scilab 
+155, ScummVM 
+156, Shogun Machine Learning Toolbox 
+157, Sigmah 
+158, Software Product Data Exchange (SPDX) 
+159, STE||AR Group 
+160," Stony Brook University, Biomedical Informatics "
+161, strace 
+162, Sugar Labs 
+163, Sustainable Computing Research Group ( SCoRe ) 
+164, SymPy 
+165," Systers, an Anita Borg Institute community "
+166, TEAMMATES @ National University of Singapore 
+167, The Center for Connected Learning and Computer-Based Modeling 
+168, The CGAL Project 
+169, The Eclipse Foundation 
+170, The FreeType Project 
+171, The GNU Project 
+172, The Honeynet Project 
+173, The Java Pathfinder Team 
+174, The Julia Language 
+175, The Libreswan Project 
+176, The Linux Foundation 
+177, The MacPorts Project 
+178, The NetBSD Foundation 
+179, The ns-3 Network Simulator Project 
+180, The Processing Foundation 
+181, The Wine Project 
+182, Tiled 
+183, TimVideos 
+184, Tor 
+185, UCSC Xena 
+186," Urban Energy Systems Laboratory, Empa "
+187, VideoLAN 
+188, ViSP 
+189, Wikimedia Foundation 
+190, WorldBrain - Verifying the Internet with Science 
+191, WSO2 
+192, wxWidgets 
+193, X.Org Foundation 
+194, Xapian Search Engine Library 
+195, XBMC Foundation 
+196, Xen Project 
+197, XMPP Standards Foundation 
+198, XWiki 
+199, Zenodo 
