@@ -1,0 +1,27 @@
+first 
+make a repo in github
+
+second
+make a folder where you want to save file and push on github
+
+third
+open cmd and initialize te folder as git folder
+1) git init
+add link of git repo to folder
+2) git remote add origin "link"
+now the folder is connected with github repo
+
+fourth
+save a file in folder and then add and commit file
+1) git add .
+2) git commit -m "first"
+then push the file to github
+3) git push origin sub		(branchname)
+
+note
+to keep pushing file to only single branch use command
+1) git push --set-upstream origin sub		(branchname)
+to create branch
+2) git checkout -b sub		(branchname)
+to switch between branches
+3) git checkout master		(branchname)
